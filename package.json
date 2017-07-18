@@ -22,9 +22,6 @@
     "pixl-xml": "^1.0.10",
     "promise": "^7.0.4"
   },
-  "optionalDependencies": {
-    "libxmljs": "^0.18.0"
-  },
   "devDependencies": {
     "jsdoc": "^3.3.0-beta3",
     "mocha": "^2.2.1",
